@@ -10,7 +10,7 @@ A simple RESTful API for managing **movies and genres** built with **ASP.NET Cor
 - Validation & error handling
 
 ## ⚙️ Requirements
-- [.NET 6 SDK](https://dotnet.microsoft.com/download)
+- [.NET 8 SDK](https://dotnet.microsoft.com/download)
 - SQL Server (Express or LocalDB)
 
 ## 🚀 Getting Started
