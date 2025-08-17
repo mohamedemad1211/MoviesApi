@@ -29,7 +29,7 @@ A simple RESTful API for managing **movies and genres** built with **ASP.NET Cor
 ## Run the app:
   dotnet run
 
-📌 Example Endpoints
+## 📌 Example Endpoints
 
 GET /api/Genres → Get all genres
 
@@ -37,7 +37,7 @@ POST /api/Movies → Create new movie (with poster)
 
 GET /api/Movies/GetByGenreId?genreId={id} → Movies by genre
 
-🖼️ Image Upload
+## 🖼️ Image Upload
 
 Allowed formats: JPG, PNG
 
